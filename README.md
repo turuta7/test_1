@@ -25,4 +25,6 @@ This project implements API for managing users in a MongoDB database.
 
 3. All start
 
-- docker-compose -p server up -d --build
+   ```bash
+    docker-compose -p server up -d --build
+   ```
